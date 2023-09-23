@@ -100,6 +100,12 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "D:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "0-intro/CMakeLists.txt"
+		},
+		{
+			"path" : "1-types-io/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

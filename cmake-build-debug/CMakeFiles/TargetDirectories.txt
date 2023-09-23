@@ -1,4 +1,13 @@
-D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/CMakeFiles/HelloWorld.dir
-D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/CMakeFiles/GuessingNumber.dir
 D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/0-intro/CMakeFiles/HelloWorld.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/0-intro/CMakeFiles/GuessingNumber.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/0-intro/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/0-intro/CMakeFiles/rebuild_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/cycle.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/sphere.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/mole.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/admin.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/admin-scanf-.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/rebuild_cache.dir

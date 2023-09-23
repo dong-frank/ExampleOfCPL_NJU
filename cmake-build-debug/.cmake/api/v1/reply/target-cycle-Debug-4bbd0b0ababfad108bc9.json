@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "GuessingNumber.exe"
+			"path" : "1-types-io/cycle.exe"
 		},
 		{
-			"path" : "GuessingNumber.pdb"
+			"path" : "1-types-io/cycle.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"CMakeLists.txt"
+			"1-types-io/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 1,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "GuessingNumber::@6890427a1f51a3e7e1df",
+	"id" : "cycle::@592ee50047900f3dac72",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "GuessingNumber",
-	"nameOnDisk" : "GuessingNumber.exe",
+	"name" : "cycle",
+	"nameOnDisk" : "cycle.exe",
 	"paths" : 
 	{
-		"build" : ".",
-		"source" : "."
+		"build" : "1-types-io",
+		"source" : "1-types-io"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "GuessingNumber.c",
+			"path" : "1-types-io/cycle.c",
 			"sourceGroupIndex" : 0
 		}
 	],

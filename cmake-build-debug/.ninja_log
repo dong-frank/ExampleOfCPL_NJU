@@ -1,3 +1,18 @@
 # ninja log v5
 0	50	7169049572152712	CMakeFiles/HelloWorld.dir/HelloWorld.c.obj	20676bf5a27014b5
 51	108	7169049572700117	HelloWorld.exe	f133aa8bbfb8dba5
+82	185	7170762188515955	1-types-io/mole.exe	11982d7e1f0913c3
+2	89	7170755341089419	1-types-io/CMakeFiles/cycle.dir/cycle.c.obj	9fbc74b9479d23aa
+89	196	7170755342124462	1-types-io/cycle.exe	6622128bae0179d9
+2	81	7170760848430038	1-types-io/CMakeFiles/sphere.dir/sphere.c.obj	adfdf9cf8d95d7db
+81	183	7170760849410060	1-types-io/sphere.exe	443f7726c92e4323
+2	82	7170762187538847	1-types-io/CMakeFiles/mole.dir/mol.c.obj	124bb436f65c5495
+1	71	7170784834673551	1-types-io/CMakeFiles/admin.dir/admin.c.obj	2ce29a721da0097f
+71	153	7170784835444497	1-types-io/admin.exe	3e4a7cfab101bdca
+0	100	7170789188818445	build.ninja	1c38b375e0e631f
+0	97	7170789257573619	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
+97	240	7170789258928837	1-types-io/admin-scanf-.exe	5dabaff278fe1f13
+1	71	7170792027329941	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
+71	155	7170792028124121	1-types-io/admin-scanf-.exe	5dabaff278fe1f13
+2	95	7170794594220219	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
+95	204	7170794595261690	1-types-io/admin-scanf-.exe	5dabaff278fe1f13

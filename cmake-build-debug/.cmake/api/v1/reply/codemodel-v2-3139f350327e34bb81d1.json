@@ -1,0 +1,146 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "0-intro",
+					"jsonFile" : "directory-0-intro-Debug-79c5e7c112b94e358586.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0-intro",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "1-types-io",
+					"jsonFile" : "directory-1-types-io-Debug-5abdedb8edd194e65f14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "1-types-io",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "ExampleOfCPL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "GuessingNumber::@53414a9831fb1dd599fc",
+					"jsonFile" : "target-GuessingNumber-Debug-6cfd9b1837ca7d1f6b49.json",
+					"name" : "GuessingNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "HelloWorld::@53414a9831fb1dd599fc",
+					"jsonFile" : "target-HelloWorld-Debug-5285787b59601da6a3e7.json",
+					"name" : "HelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "admin::@592ee50047900f3dac72",
+					"jsonFile" : "target-admin-Debug-ea063bbfb4ca98de5793.json",
+					"name" : "admin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "admin-scanf-::@592ee50047900f3dac72",
+					"jsonFile" : "target-admin-scanf--Debug-5f0c696f0fc77c391823.json",
+					"name" : "admin-scanf-",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "cycle::@592ee50047900f3dac72",
+					"jsonFile" : "target-cycle-Debug-4bbd0b0ababfad108bc9.json",
+					"name" : "cycle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "mole::@592ee50047900f3dac72",
+					"jsonFile" : "target-mole-Debug-8a26e31ae8d1136c2cf4.json",
+					"name" : "mole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sphere::@592ee50047900f3dac72",
+					"jsonFile" : "target-sphere-Debug-94eb62a55a2202361c3f.json",
+					"name" : "sphere",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
