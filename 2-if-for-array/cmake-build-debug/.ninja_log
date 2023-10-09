@@ -1,0 +1,11 @@
+# ninja log v5
+0	92	7184563144139464	CMakeFiles/min_of_two.dir/min_of_two.c.obj	60d2fe3a3999277e
+92	217	7184563145348141	min_of_two.exe	ac5b2a9cdcc16e3a
+0	68	7184569999988904	CMakeFiles/min_of_three.dir/min_of_three.c.obj	775c558a2970daf8
+2	70	7184579083084833	CMakeFiles/leap_year.dir/leap_year.c.obj	ba9487ccd2e25a1d
+68	174	7184570000958400	min_of_three.exe	7493bf47b5784794
+70	154	7184579083899367	leap_year.exe	fe7111b8df26f0fb
+86	202	7184587709585761	leap_of_year_final.exe	b616020be0b3ae8c
+1	86	7184587708463533	CMakeFiles/leap_of_year_final.dir/leap_of_year_final.c.obj	1f948ba83010803
+2	83	7184611814620639	CMakeFiles/min_of_array.dir/min_of_array.c.obj	12d049a6f2acc2ad
+83	185	7184611815596257	min_of_array.exe	3ed719c1f42894aa

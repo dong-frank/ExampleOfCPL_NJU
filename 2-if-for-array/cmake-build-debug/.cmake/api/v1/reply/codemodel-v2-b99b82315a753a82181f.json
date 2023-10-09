@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "leap_of_year_final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leap_of_year_final-Debug-ddb8c6f7d9515ee4b4f5.json",
+					"name" : "leap_of_year_final",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leap_year::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leap_year-Debug-63684a9ea0374b4225ac.json",
+					"name" : "leap_year",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_of_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_of_array-Debug-05222f6c2f35df039e9e.json",
+					"name" : "min_of_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_of_three::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_of_three-Debug-31ec0a2ce053392302dd.json",
+					"name" : "min_of_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_of_two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_of_two-Debug-5136563f44f1a51d2d5a.json",
+					"name" : "min_of_two",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_or_array_input::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_or_array_input-Debug-1baf005f5fb8b11c49b2.json",
+					"name" : "min_or_array_input",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/2-if-for-array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

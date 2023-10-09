@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -50,8 +51,23 @@
 						2,
 						3,
 						4,
-						5,
-						6
+						6,
+						7
+					]
+				},
+				{
+					"build" : "2-if-for-array",
+					"jsonFile" : "directory-2-if-for-array-Debug-ca8a799a0090f7607813.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "2-if-for-array",
+					"targetIndexes" : 
+					[
+						5
 					]
 				}
 			],
@@ -63,7 +79,8 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					],
 					"name" : "ExampleOfCPL",
 					"targetIndexes" : 
@@ -74,7 +91,8 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7
 					]
 				}
 			],
@@ -113,6 +131,13 @@
 					"id" : "cycle::@592ee50047900f3dac72",
 					"jsonFile" : "target-cycle-Debug-4bbd0b0ababfad108bc9.json",
 					"name" : "cycle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "min_of_two::@1877d974addea39212c3",
+					"jsonFile" : "target-min_of_two-Debug-3d1fc8ef087fbfd99097.json",
+					"name" : "min_of_two",
 					"projectIndex" : 0
 				},
 				{

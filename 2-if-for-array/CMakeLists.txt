@@ -1,0 +1,6 @@
+add_executable(min_of_two min_of_two.c)
+add_executable(min_of_three min_of_three.c)
+add_executable(leap_year leap_year.c)
+add_executable(leap_of_year_final leap_of_year_final.c)
+add_executable(min_of_array min_of_array.c)
+add_executable(min_or_array_input min_or_array_input.c)

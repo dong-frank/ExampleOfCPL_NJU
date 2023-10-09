@@ -1,0 +1,8 @@
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/min_of_two.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/min_of_three.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/leap_year.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/leap_of_year_final.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/min_of_array.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/min_or_array_input.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/2-if-for-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

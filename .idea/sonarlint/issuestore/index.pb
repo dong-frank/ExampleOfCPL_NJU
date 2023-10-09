@@ -1,10 +1,6 @@
 
 >
 CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
-<
-HelloWorld.c,f\f\ff333abc79feac304d93f3b388a8cb66dac11a4d
-@
-GuessingNumber.c,2\3\23888cd51de428dabf8a5bb89101c9d64bcd348b
 H
 0-intro/GuessingNumber.c,8\6\866f4a34ab9739a494c4fce4eceaac3b02331bc1
 D

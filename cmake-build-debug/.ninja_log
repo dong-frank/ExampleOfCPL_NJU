@@ -9,10 +9,6 @@
 2	82	7170762187538847	1-types-io/CMakeFiles/mole.dir/mol.c.obj	124bb436f65c5495
 1	71	7170784834673551	1-types-io/CMakeFiles/admin.dir/admin.c.obj	2ce29a721da0097f
 71	153	7170784835444497	1-types-io/admin.exe	3e4a7cfab101bdca
-0	100	7170789188818445	build.ninja	1c38b375e0e631f
-0	97	7170789257573619	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
-97	240	7170789258928837	1-types-io/admin-scanf-.exe	5dabaff278fe1f13
-1	71	7170792027329941	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
-71	155	7170792028124121	1-types-io/admin-scanf-.exe	5dabaff278fe1f13
+0	100	7184562950525198	build.ninja	1c38b375e0e631f
 2	95	7170794594220219	1-types-io/CMakeFiles/admin-scanf-.dir/admin-scanf-.c.obj	fdf19f9ee21bfe86
 95	204	7170794595261690	1-types-io/admin-scanf-.exe	5dabaff278fe1f13

@@ -11,3 +11,6 @@ D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/admin.dir
 D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/admin-scanf-.dir
 D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/edit_cache.dir
 D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/1-types-io/CMakeFiles/rebuild_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/2-if-for-array/CMakeFiles/min_of_two.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/2-if-for-array/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/2-if-for-array/CMakeFiles/rebuild_cache.dir
