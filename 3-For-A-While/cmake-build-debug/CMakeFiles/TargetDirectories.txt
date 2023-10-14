@@ -1,0 +1,7 @@
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/stars.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/primes.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/binary-search.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/digits-while.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/selection-sort.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+2	93	7188884349356916	CMakeFiles/stars.dir/stars.c.obj	d34422df2fed0961
+93	210	7188884350489056	stars.exe	ff0b549f796d32f5
+0	116	7188918554610615	CMakeFiles/digits-while.dir/digits-while.c.obj	94298b02518d1f5
+2	72	7188904795685865	CMakeFiles/primes.dir/primes.c.obj	d335e9919b3bd662
+72	160	7188904796528331	primes.exe	68d7b4ae2c76b769
+2	80	7188908205693389	CMakeFiles/binary-search.dir/binary-search.c.obj	aa7ead93b967c2fa
+80	163	7188908206492270	binary-search.exe	2df9336d4bb275f3
+116	233	7188918555729673	digits-while.exe	3cb858a9803c1
+0	81	7188938061842822	CMakeFiles/selection-sort.dir/selection-sort.c.obj	6882dcd29a35897b
+81	178	7188938062761315	selection-sort.exe	4dedcb0813e40adc

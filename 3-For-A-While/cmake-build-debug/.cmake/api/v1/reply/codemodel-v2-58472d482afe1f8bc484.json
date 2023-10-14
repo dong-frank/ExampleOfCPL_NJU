@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "binary-search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary-search-Debug-71b21c5d22a2bc0aa18b.json",
+					"name" : "binary-search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "digits-while::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digits-while-Debug-d6886c73b6c10066c30b.json",
+					"name" : "digits-while",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "primes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-primes-Debug-b005d9bf6aaccf6b7a2b.json",
+					"name" : "primes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection-sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection-sort-Debug-947046529057f7307960.json",
+					"name" : "selection-sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stars::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stars-Debug-98afdd3f88110ac0592f.json",
+					"name" : "stars",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/3-For-A-While/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/3-For-A-While"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
