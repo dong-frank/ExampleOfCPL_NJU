@@ -112,6 +112,9 @@
 		},
 		{
 			"path" : "3-For-A-While/CMakeLists.txt"
+		},
+		{
+			"path" : "4-loops/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

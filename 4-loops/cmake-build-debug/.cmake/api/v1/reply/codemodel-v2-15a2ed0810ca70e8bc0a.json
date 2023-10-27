@@ -1,0 +1,65 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "game-of-life::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-of-life-Debug-c74a6f81db4e593598f1.json",
+					"name" : "game-of-life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merge-Debug-5d7c4d3dc24de7476c7c.json",
+					"name" : "merge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/4-loops/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/4-loops"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

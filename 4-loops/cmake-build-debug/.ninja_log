@@ -1,0 +1,5 @@
+# ninja log v5
+3	306	7194969869775338	CMakeFiles/game-of-life.dir/game-of-life.c.obj	d7d6cea6d0adc9cd
+306	395	7194969870633017	game-of-life.exe	1ac5f03e6634f262
+2	67	7194981294908329	CMakeFiles/merge.dir/merge.c.obj	ce78b6f50e3f313b
+67	148	7194981295681032	merge.exe	6fb18faf37ef6bd7

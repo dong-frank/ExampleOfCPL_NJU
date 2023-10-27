@@ -1,0 +1,4 @@
+D:/Freshman/cpl/ExampleOfCPL/4-loops/cmake-build-debug/CMakeFiles/game-of-life.dir
+D:/Freshman/cpl/ExampleOfCPL/4-loops/cmake-build-debug/CMakeFiles/merge.dir
+D:/Freshman/cpl/ExampleOfCPL/4-loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/4-loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

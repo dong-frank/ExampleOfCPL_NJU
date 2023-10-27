@@ -581,6 +581,171 @@ build 2-if-for-array/rebuild_cache: phony 2-if-for-array/CMakeFiles/rebuild_cach
 # D:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt
 # =============================================================================
 
+# =============================================================================
+# Object build statements for EXECUTABLE target stars
+
+
+#############################################
+# Order-only phony target for stars
+
+build cmake_object_order_depends_target_stars: phony || 3-For-A-While/CMakeFiles/stars.dir
+
+build 3-For-A-While/CMakeFiles/stars.dir/stars.c.obj: C_COMPILER__stars_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/stars.c || cmake_object_order_depends_target_stars
+  DEP_FILE = 3-For-A-While\CMakeFiles\stars.dir\stars.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\stars.dir
+  OBJECT_FILE_DIR = 3-For-A-While\CMakeFiles\stars.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target stars
+
+
+#############################################
+# Link the executable 3-For-A-While\stars.exe
+
+build 3-For-A-While/stars.exe: C_EXECUTABLE_LINKER__stars_Debug 3-For-A-While/CMakeFiles/stars.dir/stars.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\stars.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-For-A-While\stars.exe
+  TARGET_IMPLIB = 3-For-A-While\libstars.dll.a
+  TARGET_PDB = stars.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target primes
+
+
+#############################################
+# Order-only phony target for primes
+
+build cmake_object_order_depends_target_primes: phony || 3-For-A-While/CMakeFiles/primes.dir
+
+build 3-For-A-While/CMakeFiles/primes.dir/primes.c.obj: C_COMPILER__primes_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/primes.c || cmake_object_order_depends_target_primes
+  DEP_FILE = 3-For-A-While\CMakeFiles\primes.dir\primes.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\primes.dir
+  OBJECT_FILE_DIR = 3-For-A-While\CMakeFiles\primes.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target primes
+
+
+#############################################
+# Link the executable 3-For-A-While\primes.exe
+
+build 3-For-A-While/primes.exe: C_EXECUTABLE_LINKER__primes_Debug 3-For-A-While/CMakeFiles/primes.dir/primes.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\primes.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-For-A-While\primes.exe
+  TARGET_IMPLIB = 3-For-A-While\libprimes.dll.a
+  TARGET_PDB = primes.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target binary-search
+
+
+#############################################
+# Order-only phony target for binary-search
+
+build cmake_object_order_depends_target_binary-search: phony || 3-For-A-While/CMakeFiles/binary-search.dir
+
+build 3-For-A-While/CMakeFiles/binary-search.dir/binary-search.c.obj: C_COMPILER__binary-search_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/binary-search.c || cmake_object_order_depends_target_binary-search
+  DEP_FILE = 3-For-A-While\CMakeFiles\binary-search.dir\binary-search.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\binary-search.dir
+  OBJECT_FILE_DIR = 3-For-A-While\CMakeFiles\binary-search.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target binary-search
+
+
+#############################################
+# Link the executable 3-For-A-While\binary-search.exe
+
+build 3-For-A-While/binary-search.exe: C_EXECUTABLE_LINKER__binary-search_Debug 3-For-A-While/CMakeFiles/binary-search.dir/binary-search.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\binary-search.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-For-A-While\binary-search.exe
+  TARGET_IMPLIB = 3-For-A-While\libbinary-search.dll.a
+  TARGET_PDB = binary-search.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target digits-while
+
+
+#############################################
+# Order-only phony target for digits-while
+
+build cmake_object_order_depends_target_digits-while: phony || 3-For-A-While/CMakeFiles/digits-while.dir
+
+build 3-For-A-While/CMakeFiles/digits-while.dir/digits-while.c.obj: C_COMPILER__digits-while_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/digits-while.c || cmake_object_order_depends_target_digits-while
+  DEP_FILE = 3-For-A-While\CMakeFiles\digits-while.dir\digits-while.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\digits-while.dir
+  OBJECT_FILE_DIR = 3-For-A-While\CMakeFiles\digits-while.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target digits-while
+
+
+#############################################
+# Link the executable 3-For-A-While\digits-while.exe
+
+build 3-For-A-While/digits-while.exe: C_EXECUTABLE_LINKER__digits-while_Debug 3-For-A-While/CMakeFiles/digits-while.dir/digits-while.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\digits-while.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-For-A-While\digits-while.exe
+  TARGET_IMPLIB = 3-For-A-While\libdigits-while.dll.a
+  TARGET_PDB = digits-while.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target selection-sort
+
+
+#############################################
+# Order-only phony target for selection-sort
+
+build cmake_object_order_depends_target_selection-sort: phony || 3-For-A-While/CMakeFiles/selection-sort.dir
+
+build 3-For-A-While/CMakeFiles/selection-sort.dir/selection-sort.c.obj: C_COMPILER__selection-sort_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/selection-sort.c || cmake_object_order_depends_target_selection-sort
+  DEP_FILE = 3-For-A-While\CMakeFiles\selection-sort.dir\selection-sort.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\selection-sort.dir
+  OBJECT_FILE_DIR = 3-For-A-While\CMakeFiles\selection-sort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target selection-sort
+
+
+#############################################
+# Link the executable 3-For-A-While\selection-sort.exe
+
+build 3-For-A-While/selection-sort.exe: C_EXECUTABLE_LINKER__selection-sort_Debug 3-For-A-While/CMakeFiles/selection-sort.dir/selection-sort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 3-For-A-While\CMakeFiles\selection-sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-For-A-While\selection-sort.exe
+  TARGET_IMPLIB = 3-For-A-While\libselection-sort.dll.a
+  TARGET_PDB = selection-sort.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -605,6 +770,100 @@ build 3-For-A-While/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build 3-For-A-While/rebuild_cache: phony 3-For-A-While/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target game-of-life
+
+
+#############################################
+# Order-only phony target for game-of-life
+
+build cmake_object_order_depends_target_game-of-life: phony || 4-loops/CMakeFiles/game-of-life.dir
+
+build 4-loops/CMakeFiles/game-of-life.dir/game-of-life.c.obj: C_COMPILER__game-of-life_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/4-loops/game-of-life.c || cmake_object_order_depends_target_game-of-life
+  DEP_FILE = 4-loops\CMakeFiles\game-of-life.dir\game-of-life.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 4-loops\CMakeFiles\game-of-life.dir
+  OBJECT_FILE_DIR = 4-loops\CMakeFiles\game-of-life.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target game-of-life
+
+
+#############################################
+# Link the executable 4-loops\game-of-life.exe
+
+build 4-loops/game-of-life.exe: C_EXECUTABLE_LINKER__game-of-life_Debug 4-loops/CMakeFiles/game-of-life.dir/game-of-life.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 4-loops\CMakeFiles\game-of-life.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 4-loops\game-of-life.exe
+  TARGET_IMPLIB = 4-loops\libgame-of-life.dll.a
+  TARGET_PDB = game-of-life.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target merge
+
+
+#############################################
+# Order-only phony target for merge
+
+build cmake_object_order_depends_target_merge: phony || 4-loops/CMakeFiles/merge.dir
+
+build 4-loops/CMakeFiles/merge.dir/merge.c.obj: C_COMPILER__merge_unscanned_Debug D$:/Freshman/cpl/ExampleOfCPL/4-loops/merge.c || cmake_object_order_depends_target_merge
+  DEP_FILE = 4-loops\CMakeFiles\merge.dir\merge.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = 4-loops\CMakeFiles\merge.dir
+  OBJECT_FILE_DIR = 4-loops\CMakeFiles\merge.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target merge
+
+
+#############################################
+# Link the executable 4-loops\merge.exe
+
+build 4-loops/merge.exe: C_EXECUTABLE_LINKER__merge_Debug 4-loops/CMakeFiles/merge.dir/merge.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 4-loops\CMakeFiles\merge.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 4-loops\merge.exe
+  TARGET_IMPLIB = 4-loops\libmerge.dll.a
+  TARGET_PDB = merge.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build 4-loops/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\Freshman\cpl\ExampleOfCPL\cmake-build-debug\4-loops && D:\toolbox\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build 4-loops/edit_cache: phony 4-loops/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build 4-loops/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\Freshman\cpl\ExampleOfCPL\cmake-build-debug\4-loops && D:\toolbox\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SD:\Freshman\cpl\ExampleOfCPL -BD:\Freshman\cpl\ExampleOfCPL\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build 4-loops/rebuild_cache: phony 4-loops/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build GuessingNumber: phony 0-intro/GuessingNumber.exe
@@ -623,9 +882,21 @@ build admin-scanf-.exe: phony 1-types-io/admin-scanf-.exe
 
 build admin.exe: phony 1-types-io/admin.exe
 
+build binary-search: phony 3-For-A-While/binary-search.exe
+
+build binary-search.exe: phony 3-For-A-While/binary-search.exe
+
 build cycle: phony 1-types-io/cycle.exe
 
 build cycle.exe: phony 1-types-io/cycle.exe
+
+build digits-while: phony 3-For-A-While/digits-while.exe
+
+build digits-while.exe: phony 3-For-A-While/digits-while.exe
+
+build game-of-life: phony 4-loops/game-of-life.exe
+
+build game-of-life.exe: phony 4-loops/game-of-life.exe
 
 build leap_of_year_final: phony 2-if-for-array/leap_of_year_final.exe
 
@@ -634,6 +905,10 @@ build leap_of_year_final.exe: phony 2-if-for-array/leap_of_year_final.exe
 build leap_year: phony 2-if-for-array/leap_year.exe
 
 build leap_year.exe: phony 2-if-for-array/leap_year.exe
+
+build merge: phony 4-loops/merge.exe
+
+build merge.exe: phony 4-loops/merge.exe
 
 build min_of_array: phony 2-if-for-array/min_of_array.exe
 
@@ -655,9 +930,21 @@ build mole: phony 1-types-io/mole.exe
 
 build mole.exe: phony 1-types-io/mole.exe
 
+build primes: phony 3-For-A-While/primes.exe
+
+build primes.exe: phony 3-For-A-While/primes.exe
+
+build selection-sort: phony 3-For-A-While/selection-sort.exe
+
+build selection-sort.exe: phony 3-For-A-While/selection-sort.exe
+
 build sphere: phony 1-types-io/sphere.exe
 
 build sphere.exe: phony 1-types-io/sphere.exe
+
+build stars: phony 3-For-A-While/stars.exe
+
+build stars.exe: phony 3-For-A-While/stars.exe
 
 # =============================================================================
 # Folder targets.
@@ -667,7 +954,7 @@ build sphere.exe: phony 1-types-io/sphere.exe
 #############################################
 # Folder: D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug
 
-build all: phony 0-intro/all 1-types-io/all 2-if-for-array/all 3-For-A-While/all
+build all: phony 0-intro/all 1-types-io/all 2-if-for-array/all 3-For-A-While/all 4-loops/all
 
 # =============================================================================
 
@@ -695,7 +982,14 @@ build 2-if-for-array/all: phony 2-if-for-array/min_of_two.exe 2-if-for-array/min
 #############################################
 # Folder: D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/3-For-A-While
 
-build 3-For-A-While/all: phony
+build 3-For-A-While/all: phony 3-For-A-While/stars.exe 3-For-A-While/primes.exe 3-For-A-While/binary-search.exe 3-For-A-While/digits-while.exe 3-For-A-While/selection-sort.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/4-loops
+
+build 4-loops/all: phony 4-loops/game-of-life.exe 4-loops/merge.exe
 
 # =============================================================================
 # Built-in targets
@@ -704,14 +998,14 @@ build 3-For-A-While/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Freshman/cpl/ExampleOfCPL/0-intro/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/1-types-io/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/2-if-for-array/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Freshman/cpl/ExampleOfCPL/0-intro/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/1-types-io/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/2-if-for-array/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/4-loops/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Freshman/cpl/ExampleOfCPL/0-intro/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/1-types-io/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/2-if-for-array/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake: phony
+build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Freshman/cpl/ExampleOfCPL/0-intro/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/1-types-io/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/2-if-for-array/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/3-For-A-While/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/4-loops/CMakeLists.txt D$:/Freshman/cpl/ExampleOfCPL/CMakeLists.txt D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/toolbox/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################

@@ -11,7 +11,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -51,9 +52,9 @@
 					[
 						2,
 						3,
-						4,
-						11,
-						12
+						5,
+						15,
+						18
 					]
 				},
 				{
@@ -68,12 +69,12 @@
 					"source" : "2-if-for-array",
 					"targetIndexes" : 
 					[
-						5,
-						6,
-						7,
 						8,
 						9,
-						10
+						11,
+						12,
+						13,
+						14
 					]
 				},
 				{
@@ -85,7 +86,31 @@
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "3-For-A-While"
+					"source" : "3-For-A-While",
+					"targetIndexes" : 
+					[
+						4,
+						6,
+						16,
+						17,
+						19
+					]
+				},
+				{
+					"build" : "4-loops",
+					"jsonFile" : "directory-4-loops-Debug-5c7f24df03c5c0467ec8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "4-loops",
+					"targetIndexes" : 
+					[
+						7,
+						10
+					]
 				}
 			],
 			"name" : "Debug",
@@ -98,7 +123,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					],
 					"name" : "ExampleOfCPL",
 					"targetIndexes" : 
@@ -115,7 +141,14 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
 					]
 				}
 			],
@@ -150,10 +183,31 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 4,
+					"id" : "binary-search::@b0b430591ba3cb5e3d67",
+					"jsonFile" : "target-binary-search-Debug-52e43cd83de11bbc166c.json",
+					"name" : "binary-search",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 2,
 					"id" : "cycle::@592ee50047900f3dac72",
 					"jsonFile" : "target-cycle-Debug-4bbd0b0ababfad108bc9.json",
 					"name" : "cycle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "digits-while::@b0b430591ba3cb5e3d67",
+					"jsonFile" : "target-digits-while-Debug-da90de36862d4bce91f6.json",
+					"name" : "digits-while",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "game-of-life::@b89cdeb732e8a284e7d7",
+					"jsonFile" : "target-game-of-life-Debug-50440cafc943fcaa29d9.json",
+					"name" : "game-of-life",
 					"projectIndex" : 0
 				},
 				{
@@ -168,6 +222,13 @@
 					"id" : "leap_year::@1877d974addea39212c3",
 					"jsonFile" : "target-leap_year-Debug-32938b28c9b3a9b18375.json",
 					"name" : "leap_year",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "merge::@b89cdeb732e8a284e7d7",
+					"jsonFile" : "target-merge-Debug-4693558db982991cab23.json",
+					"name" : "merge",
 					"projectIndex" : 0
 				},
 				{
@@ -206,10 +267,31 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 4,
+					"id" : "primes::@b0b430591ba3cb5e3d67",
+					"jsonFile" : "target-primes-Debug-8dcc23b9e53f893bc67e.json",
+					"name" : "primes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "selection-sort::@b0b430591ba3cb5e3d67",
+					"jsonFile" : "target-selection-sort-Debug-ad6cd036aa7b1de736ba.json",
+					"name" : "selection-sort",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 2,
 					"id" : "sphere::@592ee50047900f3dac72",
 					"jsonFile" : "target-sphere-Debug-94eb62a55a2202361c3f.json",
 					"name" : "sphere",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "stars::@b0b430591ba3cb5e3d67",
+					"jsonFile" : "target-stars-Debug-2b7fd66638143166c65c.json",
+					"name" : "stars",
 					"projectIndex" : 0
 				}
 			]
