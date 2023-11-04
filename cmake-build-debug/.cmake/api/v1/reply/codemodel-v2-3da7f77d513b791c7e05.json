@@ -12,7 +12,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -53,8 +54,8 @@
 						2,
 						3,
 						5,
-						15,
-						18
+						16,
+						19
 					]
 				},
 				{
@@ -69,12 +70,12 @@
 					"source" : "2-if-for-array",
 					"targetIndexes" : 
 					[
-						8,
 						9,
-						11,
+						10,
 						12,
 						13,
-						14
+						14,
+						15
 					]
 				},
 				{
@@ -91,9 +92,9 @@
 					[
 						4,
 						6,
-						16,
 						17,
-						19
+						18,
+						20
 					]
 				},
 				{
@@ -109,7 +110,22 @@
 					"targetIndexes" : 
 					[
 						7,
-						10
+						11
+					]
+				},
+				{
+					"build" : "5-function",
+					"jsonFile" : "directory-5-function-Debug-8fbde15b744d83f3ca08.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "5-function",
+					"targetIndexes" : 
+					[
+						8
 					]
 				}
 			],
@@ -124,7 +140,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"name" : "ExampleOfCPL",
 					"targetIndexes" : 
@@ -148,7 +165,8 @@
 						16,
 						17,
 						18,
-						19
+						19,
+						20
 					]
 				}
 			],
@@ -208,6 +226,13 @@
 					"id" : "game-of-life::@b89cdeb732e8a284e7d7",
 					"jsonFile" : "target-game-of-life-Debug-50440cafc943fcaa29d9.json",
 					"name" : "game-of-life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "game-of-life1::@18b7eb9d20db78c69f22",
+					"jsonFile" : "target-game-of-life1-Debug-703b02bc4dc6c065c35b.json",
+					"name" : "game-of-life1",
 					"projectIndex" : 0
 				},
 				{

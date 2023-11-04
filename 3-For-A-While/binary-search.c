@@ -5,13 +5,25 @@
 
 #define LEN 10
 
+
+int BinarySearch(int key, const int dict[], int len);
+
 int main(void) {
     int key = 0;
-    int dict[LEN] = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55};
+    int diction[LEN] = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55};
     scanf("%d", &key);
-    int index = -1;
+    int index = BinarySearch(key, diction, LEN);
+    if (index == -1) {
+        printf("no found");
+    } else {
+        printf("found it");
+    }
+    return 0;
+}
+
+int BinarySearch(int key, const int dict[], int len) {
     int low = 0;
-    int high = LEN - 1;
+    int high = len - 1;
 
     while (low <= high) {
         int mid = (low + high) / 2;
@@ -21,11 +33,9 @@ int main(void) {
         } else if (key < dict[mid]) {
             high = mid - 1;
         } else {
-            index = mid;
-            //break;
-            high = mid - 1;//找最左边的k
+            return mid;
         }
+
     }
-    printf("%d", index);
-    return 0;
+    return -1;
 }
