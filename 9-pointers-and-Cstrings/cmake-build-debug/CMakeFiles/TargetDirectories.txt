@@ -1,0 +1,6 @@
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/string-literals.dir
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/strcmp.dir
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/strlen.dir
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/strcpy.dir
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+add_executable(decl decl.c)
+add_executable(echo echo.c)
+add_executable(game-of-life-pointer game-of-life-pointer.c)
+add_executable(scores scores.c)
+add_executable(selection-sort-strings selection-sort-strings.c)

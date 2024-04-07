@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "strcmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strcmp-Debug-a6e80d9447f6b3d3cf9d.json",
+					"name" : "strcmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strcpy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strcpy-Debug-97cc86d0fa0f67aa374d.json",
+					"name" : "strcpy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-literals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-literals-Debug-67f1ac3f944c72868195.json",
+					"name" : "string-literals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strlen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strlen-Debug-10edb2c74b4c9acd048c.json",
+					"name" : "strlen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/9-pointers-and-Cstrings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

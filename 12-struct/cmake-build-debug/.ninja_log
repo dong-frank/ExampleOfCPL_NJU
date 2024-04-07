@@ -1,0 +1,19 @@
+# ninja log v5
+0	98	7249376643789123	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+99	218	7249376644982789	musician.exe	e6dbcf0f2afc04dd
+2	100	7249394584478861	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+100	192	7249394585347177	musician.exe	e6dbcf0f2afc04dd
+1	78	7249395517327744	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+78	157	7249395518079536	musician.exe	e6dbcf0f2afc04dd
+2	75	7249396073220073	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+75	161	7249396074041009	musician.exe	e6dbcf0f2afc04dd
+3	104	7249396567115814	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+104	240	7249396568419382	musician.exe	e6dbcf0f2afc04dd
+3	111	7249400579122954	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+111	191	7249400579873378	musician.exe	e6dbcf0f2afc04dd
+3	111	7249401035323861	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+111	261	7249401036768182	musician.exe	e6dbcf0f2afc04dd
+2	91	7249409172777428	CMakeFiles/musician.dir/musician.c.obj	57a6db01824095bc
+91	182	7249409173637382	musician.exe	e6dbcf0f2afc04dd
+0	91	7249417331899186	CMakeFiles/sds.dir/sds.c.obj	d905d42da91eeeef
+91	199	7249417332902275	sds.exe	68deafaa58d3f7b7

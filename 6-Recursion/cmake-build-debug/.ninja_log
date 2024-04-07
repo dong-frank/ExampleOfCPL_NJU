@@ -1,0 +1,19 @@
+# ninja log v5
+2	69	7213110026629531	CMakeFiles/min.dir/min.c.obj	a8ecfefdfa88a3df
+83	187	7213116137555844	sum.exe	21e8c32d2a4e374f
+69	146	7213110027356306	min.exe	93fe5100475f7329
+2	82	7213116136566091	CMakeFiles/sum.dir/sum.c.obj	38217b91987e68b
+80	179	7213118128646834	fib.exe	6c0e9fd3afe33ff8
+84	187	7213126369369617	gcd.exe	416fcba18088b864
+0	79	7213118127713113	CMakeFiles/fib.dir/fib.c.obj	79af9cb5bdba95bc
+2	83	7213126368379038	CMakeFiles/gcd.dir/gcd.c.obj	4cc33e0e4e9ed623
+0	219	7219123428043914	CMakeFiles/mergesort.dir/mergesort.c.obj	395aee65d2a8c9b3
+220	583	7219123431613631	mergesort.exe	182d68c4ecb454a
+2	83	7219144902439148	CMakeFiles/mergesort.dir/mergesort.c.obj	395aee65d2a8c9b3
+83	170	7219144903271879	mergesort.exe	182d68c4ecb454a
+2	90	7219148148325519	CMakeFiles/mergesort.dir/mergesort.c.obj	395aee65d2a8c9b3
+90	203	7219148149405409	mergesort.exe	182d68c4ecb454a
+2	66	7219148286057583	CMakeFiles/mergesort.dir/mergesort.c.obj	395aee65d2a8c9b3
+66	146	7219148286814319	mergesort.exe	182d68c4ecb454a
+2	109	7219148687299692	CMakeFiles/mergesort.dir/mergesort.c.obj	395aee65d2a8c9b3
+109	224	7219148688414034	mergesort.exe	182d68c4ecb454a

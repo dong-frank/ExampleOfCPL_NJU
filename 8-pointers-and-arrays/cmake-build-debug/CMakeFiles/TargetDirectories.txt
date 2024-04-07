@@ -1,0 +1,4 @@
+D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays/cmake-build-debug/CMakeFiles/radius.dir
+D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays/cmake-build-debug/CMakeFiles/selection-sort.dir
+D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

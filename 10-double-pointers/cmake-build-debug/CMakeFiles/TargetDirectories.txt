@@ -1,0 +1,7 @@
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/decl.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/echo.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/game-of-life-pointer.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/scores.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/selection-sort-strings.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

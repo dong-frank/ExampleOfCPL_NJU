@@ -1,0 +1,65 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "radius::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-radius-Debug-5f33f7de85bc87b8d3ba.json",
+					"name" : "radius",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection-sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection-sort-Debug-e2febb1d936d4401bd2d.json",
+					"name" : "selection-sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/8-pointers-and-arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

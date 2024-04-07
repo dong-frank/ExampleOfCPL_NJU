@@ -1,0 +1,15 @@
+# ninja log v5
+2	100	7225176604869821	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+100	216	7225176605896022	radius.exe	e9d3f02e39702fc1
+1	69	7225182572278089	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+70	177	7225182573308052	radius.exe	e9d3f02e39702fc1
+1	82	7225182638125919	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+82	183	7225182639065387	radius.exe	e9d3f02e39702fc1
+3	72	7225182927301713	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+72	148	7225182928012158	radius.exe	e9d3f02e39702fc1
+2	67	7225184124649266	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+68	148	7225184125425325	radius.exe	e9d3f02e39702fc1
+2	68	7225185393536261	CMakeFiles/radius.dir/radius.c.obj	7fffc951d68001e
+69	146	7225185394283896	radius.exe	e9d3f02e39702fc1
+0	81	7225196559675015	CMakeFiles/selection-sort.dir/selection-sort.c.obj	72df195360217722
+82	168	7225196560487294	selection-sort.exe	4dedcb0813e40adc

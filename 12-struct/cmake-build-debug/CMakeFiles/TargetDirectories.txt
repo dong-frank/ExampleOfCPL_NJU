@@ -1,0 +1,5 @@
+D:/Freshman/cpl/ExampleOfCPL/12-struct/cmake-build-debug/CMakeFiles/musician.dir
+D:/Freshman/cpl/ExampleOfCPL/12-struct/cmake-build-debug/CMakeFiles/padding.dir
+D:/Freshman/cpl/ExampleOfCPL/12-struct/cmake-build-debug/CMakeFiles/sds.dir
+D:/Freshman/cpl/ExampleOfCPL/12-struct/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Freshman/cpl/ExampleOfCPL/12-struct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -64,7 +64,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/5-function/cmake_install.cmake")
+  include("D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/6-Recursion/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/7-data-types/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/Freshman/cpl/ExampleOfCPL/cmake-build-debug/8-pointers-and-arrays/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

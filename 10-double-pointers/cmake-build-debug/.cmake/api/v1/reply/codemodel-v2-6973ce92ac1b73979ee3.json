@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "decl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decl-Debug-adfc2ea3c1a2ce4d3ddd.json",
+					"name" : "decl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "echo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-echo-Debug-7faadc805e168e0896db.json",
+					"name" : "echo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "game-of-life-pointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-of-life-pointer-Debug-91c9c70ddfc32ade88b5.json",
+					"name" : "game-of-life-pointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scores-Debug-0c9a2cf5ac66b9e5c43d.json",
+					"name" : "scores",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection-sort-strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection-sort-strings-Debug-28e62e54d224cc203e7f.json",
+					"name" : "selection-sort-strings",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/10-double-pointers/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/10-double-pointers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

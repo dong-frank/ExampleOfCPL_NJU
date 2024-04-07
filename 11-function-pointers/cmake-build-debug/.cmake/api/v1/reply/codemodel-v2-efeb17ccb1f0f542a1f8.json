@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "atexit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-atexit-Debug-57734ebca3d96918ea5b.json",
+					"name" : "atexit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bsearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsearch-Debug-20716222702a692f5be0.json",
+					"name" : "bsearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bsearch-gnuc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsearch-gnuc-Debug-1b3ed9dcc846edb7e33c.json",
+					"name" : "bsearch-gnuc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integrate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integrate-Debug-14a092436bdcc0afa57f.json",
+					"name" : "integrate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-607548b3a6b936ba1e9c.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Freshman/cpl/ExampleOfCPL/11-function-pointers/cmake-build-debug",
+		"source" : "D:/Freshman/cpl/ExampleOfCPL/11-function-pointers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

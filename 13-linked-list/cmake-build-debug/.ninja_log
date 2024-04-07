@@ -1,0 +1,4 @@
+# ninja log v5
+3	91	7255455804254398	CMakeFiles/josephus.dir/josephus.c.obj	9734ee66c68574b3
+8	97	7255455804299487	CMakeFiles/josephus.dir/ll/ll.c.obj	39efb20a1d55f8ee
+97	182	7255455805117200	josephus.exe	bb6fcddf6da9b26b
